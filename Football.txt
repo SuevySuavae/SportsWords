@@ -1,0 +1,366 @@
+2-4-5 defense
+3-3-5 defense
+3-4 defense
+4-3 defense
+4-4-4 defense
+46 defense
+50 defense
+n-possession game
+A-11 offense
+air raid
+air yards
+all-purpose yardage
+audible
+automatic first down
+back
+backfield
+backup
+backward pass
+ballcarrier
+ball control
+baseball score
+Black Monday
+blitz
+blocking
+blocking back
+blocking sled
+blowout
+bomb
+bootleg
+term
+bust
+bubble screen
+busted play
+buttonhook
+carry
+center
+center-eligible
+centre
+chain
+chip shot
+chop block
+chuck and duck
+checkdown
+clipping
+coffin corner
+comeback route
+completion percentage
+contain
+cornerback
+cover
+counter
+crackback block
+cut
+cut blocking
+dead ball
+dead-ball foul
+defensive back
+defensive end
+defensive tackle
+defensive team
+delay of game
+dime back
+direct snap
+dive
+double reverse
+double wing
+double wing-T
+down
+down box
+down by contact
+down lineman
+draw play
+drive
+drop kick
+dual-threat quarterback
+eligible receiver
+encroachment
+end around
+end zone
+extra point
+face mask
+face mask grasping
+false start
+fair catch
+fair catch kick
+fantasy football
+field judge
+field of play
+field goal
+field position
+first down
+flag
+flanker
+flat
+flea flicker
+flexbone
+formation
+forward pass
+forward progress
+fourth down
+fourth down conversion
+four-point stance
+free kick
+free safety
+fullback
+fumble
+fumblerooski
+game manager
+goal
+goal area
+goal line
+goal line stand
+gridiron
+guard
+gunner
+hail Mary
+halfback
+halfback option play
+halo violation
+hand-off
+hands team
+hard count
+hash marks
+H-back
+hidden yardage
+hike
+holder
+holding
+home and away
+hook and lateral
+horse-collar
+huddle
+hurry-up offense
+I formation
+icing the kicker
+illegal formation
+illegal motion
+illegal shift
+incomplete pass
+inbounds lines
+indirect snap
+ineligible receiver
+inside of a player's path
+inside of the movement of the ball between players
+intentional grounding
+interception
+Jack
+jumbo
+kick
+kicker
+kickoff
+kick returner
+kneel
+lateral
+leg whip
+line of scrimmage
+line to gain
+linebacker
+lineman
+live ball
+live ball foul
+long snapper
+loose ball
+losing record
+losing season
+man coverage
+man-in-motion
+man-to-man coverage
+margin of victory
+Marty Ball
+Maryland-I
+max protect
+Mike
+Mo
+monster
+motion
+muff
+muffed punt
+moving the chains
+National Football League
+National Collegiate Athletic Association
+National Association of Intercollegiat Athletics
+National Federation of State High School Associations
+neutral zone
+NFL
+NFL Europa
+nickel back
+no good
+no-huddle offense
+non-winning record
+non-winning season
+nose tackle
+offensive team
+offside
+one back formation
+onside kick
+option run
+option offense
+outside
+PAT
+package
+pancake
+pancake block
+pass interference
+passer rating
+passing play
+pass protection
+peel-back block
+pick
+pick-six
+pistol formation
+place kick
+play
+play action
+play clock
+playing field
+pocket
+points percentage
+pooch kick
+Pop Warner Little Scholars
+post pattern
+position
+possession
+preseason
+prevent defense
+pro set
+pulling
+pump fake
+punt
+punt return
+punter
+quarter
+quarterback
+quarterback rating
+quarterback scramble
+quarterback sneak
+quarter defense
+quick kick
+rag doll
+reception
+red flag
+red shirt
+red zone
+referee
+regular season
+restraining line
+return
+return yards
+reverse
+road game
+rover
+run and shoot
+running back
+running out the clock
+running play
+running up the score
+run out of the gun
+rush
+rushing average
+sack
+safety
+safety valve
+Sam
+scatback
+scramble
+screen pass
+scrimmage
+secondary
+shield punt
+shift
+shooting
+shotgun formation
+sideline
+side zone
+single wing
+single wing-T
+slant
+slobber-knocker
+slot
+snap
+snap count
+sneak
+special teams
+spike
+split-T
+splits
+split end
+spot
+sprint football
+squib kick
+starter
+steal
+sticks
+stiff-arm
+strip
+strong I
+strong safety
+strong side
+stuff
+stunt
+sweep
+T formation
+tackle
+tackle box
+tackle-eligible
+tailback
+take a knee
+take the top off the defense
+take the lid off the defense
+three-and-out
+three-point conversion
+three-point stance
+throwaway
+tight end
+time of possession
+total offense
+touchback
+touchdown
+trap
+trick play
+trips
+true freshman
+try
+turn the ball over on downs
+turnover
+tweener
+two-level defense
+two-minute warning
+two-point conversion
+unbalanced line
+under center
+undrafted
+upback
+upman
+utility player
+vanilla offense
+veer
+walk-on
+weak I
+weak side
+West Coast offense
+wheel route
+wide
+wide receiver
+wildcat offense
+Will
+win-loss
+wing back
+winning percentage
+winning record
+winning season
+wishbone
+X-receiver
+YAC
+Y-receiver
+yard
+yard Line
+yardage
+yards gained
+yards from scrimmage
+yellow flag
+Z-receiver
+zebra
+zone defense
+zone blitz
+zone read
